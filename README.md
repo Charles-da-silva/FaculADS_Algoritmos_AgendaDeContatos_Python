@@ -6,9 +6,7 @@ O exercício pedia que fosse criada uma agenda de contatos, com ID para cada con
 
 Outputs do código em execução:
 
-!(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_1.png)
-!(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_2.png)
-!(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_3.png)
-!(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_4.png)
-
-![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
+![print1](https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_1.png)
+![print2](https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_2.png)
+![print3](https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_3.png)
+![print4](https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_4.png)
