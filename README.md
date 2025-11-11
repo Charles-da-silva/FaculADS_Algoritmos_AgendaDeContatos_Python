@@ -10,3 +10,5 @@ Outputs do código em execução:
 !(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_2.png)
 !(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_3.png)
 !(https://github.com/Charles-da-silva/FaculADS_Algoritmos_AgendaDeContatos_Python/blob/main/output_4.png)
+
+![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
